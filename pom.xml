@@ -12,7 +12,7 @@
 
 	<properties>
 		<app.deploy.project>your-project-id</app.deploy.project>
-		<spring.version>5.2.1.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<spring.security.version>5.2.1.RELEASE</spring.security.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
